@@ -1,0 +1,7 @@
+{
+  "uuid": "reminders@local",
+  "name": "Reminders",
+  "description": "Top bar reminder checklist",
+  "version": 1,
+  "shell-version": ["45", "46"]
+}
