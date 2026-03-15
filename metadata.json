@@ -1,7 +1,8 @@
 {
-  "uuid": "reminders@local",
+  "uuid": "reminders@aishwary.dev",
   "name": "Reminders",
   "description": "Top bar reminder checklist",
   "version": 1,
-  "shell-version": ["45", "46"]
+  "shell-version": ["45", "46"],
+  "url" : "https://github.com/shhKnight30/Reminders-linux"
 }
